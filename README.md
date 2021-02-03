@@ -44,15 +44,11 @@ JAVA
     > Mahedi Hassan Rabby
     > 2018331033
     > WORK DONE : - (DUE TO COVID-19 and certain issues)
+    
+# work done precentage
 
-Pie Charts
-```mermaid
-pie
-    CONTRIBUTION PIE CHART
-    "2018331091" : 100
-    "2018331033" : 0
-```
-
+**||||||||||** vs 
+    
     
 
 
