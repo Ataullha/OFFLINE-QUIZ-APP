@@ -36,20 +36,9 @@ JAVA
 * take the exam
 * submit and see a glance of result
 
-# project partner's details
+
     > MD ATAULLHA
     > 2018331081
-    > WORK DONE : 100%
     
-    > Mahedi Hassan Rabby
-    > 2018331033
-    > WORK DONE : - (DUE TO COVID-19 and certain issues)
-    
-# work done precentage
-
-**||||||||||** vs 
-    
-    
-
 
 **written by : Ataullha**
