@@ -41,6 +41,11 @@ public class JavaMailUtil {
 
         String myAccountEmail = "offlinequizapp@gmail.com";
         String Password = "offlinequizapp21";
+        
+        /**
+        you want this password ?
+        Okey, take it you are welcome and contact with the admin
+        **/
 
         Session session = Session.getInstance(properties, new Authenticator() {
             @Override
